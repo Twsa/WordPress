@@ -1,0 +1,12 @@
+Tish2 1.0.2, 2018-05-11
+------------------------
+- fix issue with posts date format
+- enable translate for recommended plugin name
+
+Tish2 1.0.1, 2018-04-19
+------------------------
+- remove unused css code
+
+Tish2 1.0.0, 2018-04-19
+------------------------
+- Initial release
